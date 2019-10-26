@@ -1,7 +1,7 @@
 export const plan = [
     {
         index: '0',
-        name: '100',
+        name: '1',
         stops: [
             {
                 stop: "las",
@@ -30,7 +30,7 @@ export const plan = [
       },
       {
         index: '1',
-        name: '101',
+        name: '2',
         stops: [
             {
                 stop: "Khorinis",
@@ -59,7 +59,7 @@ export const plan = [
       },
       {
         index: '2',
-        name: '102',
+        name: '3',
         stops: [
             {
                 stop: "Silden",

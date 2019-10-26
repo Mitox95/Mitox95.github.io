@@ -10,6 +10,7 @@ import Time from './components/time';
 
 function App() {
   return (
+    <div className="container">
     <div className="App">
      
       <Router>
@@ -20,6 +21,7 @@ function App() {
         <Route exact path="/line/:lineId/:stopId/:timeId" component={Time} />
       </Router>
       
+    </div>
     </div>
   );
 }

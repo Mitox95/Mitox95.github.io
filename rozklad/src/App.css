@@ -1,6 +1,13 @@
 .App {
   text-align: center;
-  
+    display: flex;
+    flex-direction: column;
+    height: 120vh;
+    justify-content: center;
+    align-items: center;
+    background: #222;
+    color: #eee;
+    font-family: "Dosis", sans-serif;
 
 }
 
